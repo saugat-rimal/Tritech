@@ -1,4 +1,4 @@
-## Portfolio Website Template
+## Tritech Web Solutions Website Template
 
 > Mistakes are proof that we are trying!
 
