@@ -1,5 +1,7 @@
 ## Tritech Web Solutions Website Template
 
+Tritech web solutions is a creative website design and web development company that helps take your business online. Find reasonable prices and responsive designs at tritech.
+
 > Mistakes are proof that we are trying!
 
 ## I have used:
